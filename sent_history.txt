@@ -1,0 +1,148 @@
+# Skytecher WhatsApp Outreach - Sent History Log
+# Format: Phone, Date-Time, Company
++447974643830, 2026-10-01 05:01:46, FS46
++441905779093, 2026-10-01 05:02:49, Sanders Fitness
++441384473101, 2026-10-01 05:04:17, Motion Health & Leisure – Merry Hill
++441902551010, 2026-10-01 05:05:35, WV Active Aldersley
++441902623900, 2026-10-01 05:06:45, Nuffield Health Wolverhampton Fitness & Wellbeing Gym
++447933220457, 2026-10-01 05:07:56, Shrewsbury Body Sculpt Boutique (BSB)
++443439092625, 2026-10-01 05:09:24, Flannels
++441174030998, 2026-10-01 05:10:44, NOCO Hair
++441179730412, 2026-10-01 05:12:12, Yours Truly Hair
++441179737793, 2026-10-01 05:13:32, Hair at 58
++441225552181, 2026-10-01 05:14:37, Backstage Atelier Hair Salon
++447340363486, 2026-10-01 05:15:57, EH Hair Salon
++441179674040, 2026-10-01 05:17:06, Charisma Hair & Beauty Salon Bristol
++447752820087, 2026-10-01 05:18:08, MANU Botanicals & Hair Studio
++441722329292, 2026-10-01 05:19:16, JAS Hair Salon Group
++441743562430, 2026-10-01 05:20:34, Mercian Accountants
++441952462693, 2026-10-01 05:21:36, Spotlight Accounting Limited
++441384295500, 2026-10-01 05:22:53, Wilkes Tranter & Co Limited
++447874286005, 2026-10-01 05:23:54, Blue Pines Tax Advisors & Accountants
++441902755557, 2026-10-01 05:25:11, TaxAssist Accountants (Wolverhampton)
++441902475717, 2026-10-01 05:26:32, T&W Accounts
++441384913888, 2026-10-01 05:27:54, TaxAssist Accountants (Kingswinford)
++441952292729, 2026-10-01 05:28:56, ChadStone Accountancy & Tax
++442078369161, 2026-10-01 05:34:53, Covent Garden Dental Practice
++442077061112, 2026-10-01 05:36:10, Hyde Park Dental Clinic
++442073132890, 2026-10-01 05:37:35, Marsh & Parsons Notting Hill
++442071131066, 2026-10-01 05:38:50, Greater London Properties
++442072245544, 2026-10-01 05:39:58, Dexters Marylebone
++442070550441, 2026-10-01 05:41:20, Real Estate Agents London
++442073870077, 2026-10-01 05:42:36, Frank Harris & Co (Bloomsbury)
++442039098399, 2026-10-01 05:44:02, Connaught Law
++442071830529, 2026-10-01 05:45:04, LEXLAW Solicitors & Barristers
++442078228535, 2026-10-01 05:46:20, Sterling Law
++442036376374, 2026-10-01 05:47:45, EM Law
++442030967169, 2026-10-01 05:49:02, Expatriate Law
++442036330906, 2026-10-01 05:50:08, WASO Online Japanese Supermarket
++447926981731, 2026-10-01 05:51:22, Armenyo Online Shopping UK
++441903078502, 2026-10-01 05:52:33, Pet Supplies Online
++971542172257, 2026-10-01 05:53:57, Zivora Gold & Diamonds
++971524063000, 2026-10-01 05:55:08, Aimstorm Solutions
++971509312849, 2026-10-01 05:56:15, Safe Medfire
++97143571577, 2026-10-01 05:57:43, Mankhool Dental Clinic
++97143343421, 2026-10-01 05:59:02, Hussam Dental Clinic
++97142739797, 2026-10-01 06:00:21, MIH Dental Clinic
++97143588965, 2026-10-01 06:01:20, Net Dental Clinic Al Karama
++971585226900, 2026-10-01 06:02:45, Kings Dental Center Karama
++971503061818, 2026-10-01 06:04:11, Zaira Adcon Advertising
++971568426687, 2026-10-01 06:05:31, LUMINA Shopify Partner Agency
++971564110483, 2026-10-01 06:06:42, ZAINBAY Online IT Store
++971581401130, 2026-10-01 06:07:57, Suncity Oasis Real Estate
++97142669441, 2026-10-01 06:09:14, CARGWAY Shipping
++97142807280, 2026-10-01 06:10:23, Easy Service UAE
++97142859886, 2026-10-01 06:11:35, GrowithAmazon Consultancy
++971565225096, 2026-10-01 06:19:13, 8amoffer
++971526684822, 2026-10-01 06:20:07, HSR Middle East Line
++971589776538, 2026-10-01 06:21:00, GR8 Real Estate
++97143368048, 2026-10-01 06:21:56, Imex Shipping & Logistics
++971564221215, 2026-10-01 06:22:48, Booster Medical Centre (Dental)
++971506578063, 2026-10-01 06:23:44, greencart.ae
++971527133347, 2026-10-01 06:24:38, Phygicart General Trading
++919292443930, 2026-10-01 06:25:27, Next Level Rankers
++917188089328, 2026-10-01 06:26:23, Media Explode
++917184174777, 2026-10-01 06:27:20, HM Home Realty
++917189532732, 2026-10-01 06:28:15, Flateau Realty
++918444951010, 2026-10-01 06:29:05, Byson Real Estate Co.
++917187060957, 2026-10-01 06:29:54, Welcome Home Real Estate
++917184088777, 2026-10-01 06:30:52, Brooklyn Group
++918446638742, 2026-10-01 06:31:48, zSocialExpert
++912122352776, 2026-10-01 06:32:44, Reyes & Elsamad Real Estate Group
++919292781874, 2026-10-01 06:33:34, Bedford Brownstone Realty
++917184177000, 2026-10-01 06:34:23, Hillel Realty Group
++917184562505, 2026-10-01 06:35:20, Duran Realty
++913479277707, 2026-10-01 06:36:10, Native Real Estate
++919299288338, 2026-10-01 06:36:59, Digital Empire NY
++917183894266, 2026-10-01 06:37:47, Aesthetic Dental
++913479862032, 2026-10-01 06:38:36, Metropolitan Dental Arts
++913472210100, 2026-10-01 06:39:34, Peace of Mind Realty
++917187018991, 2026-10-01 06:40:29, Williamsburg Dental Works
++919294924708, 2026-10-01 06:41:26, Greenpoint Dental Center
++917185965537, 2026-10-01 06:42:19, Brooklyn Family Dental
++913474805312, 2026-10-01 06:43:17, Estore Company
++919173461314, 2026-10-01 06:44:15, The Gomez Company
++918482065752, 2026-10-01 06:45:09, Ecom Swing
++916469821574, 2026-10-01 06:46:07, Avex E-commerce Agency
++917182186600, 2026-10-01 06:47:04, Pura Dental Graham Avenue
++919294611077, 2026-10-01 06:47:55, YippeeWeb Digital Marketing
++917187783283, 2026-10-01 06:48:50, St. Marks Painless Dental
++917183882188, 2026-10-01 06:49:47, Capri Jet Realty
++14375009447, 2026-10-01 06:50:37, OrderGrid Toronto
++14167926088, 2026-10-01 06:51:34, AOSOM Canada
++16477867384, 2026-10-01 06:52:26, PrimePack Inc
++19058984003, 2026-10-01 06:53:19, Bright Smile Dental Clinic
++14164911100, 2026-10-01 06:54:16, Fairview Mall Dental Centre
++14162975513, 2026-10-01 06:55:09, Malvern Town Centre Dental
++14169073104, 2026-10-01 06:56:06, Dentist North York
++14165873415, 2026-10-01 06:57:04, Helen and Paul Homes (Royal LePage)
++16477160666, 2026-10-01 06:58:00, Luxury Real Estate Toronto
++19054297496, 2026-10-01 06:58:54, Easy Knit Manufacturing
++14163210005, 2026-10-01 06:59:48, Markham Gateway Dentistry
++16479101000, 2026-10-01 07:00:41, City Realty Point
++14164382536, 2026-10-01 07:01:33, GET ALDO (REMAX Crossroads)
++16472474008, 2026-10-01 07:02:29, Truzz Infotech
++14164383325, 2026-10-01 07:03:22, Nortel Manufacturing
++14166905100, 2026-10-01 07:04:19, Royal LePage Estate Realty
++16479672627, 2026-10-01 07:05:12, Techline Manufacturing
++16478084818, 2026-10-01 07:06:04, Shea Sells Boutique Real Estate
++14162912220, 2026-10-01 07:06:53, ECI Technology Group
++14167501777, 2026-10-01 07:07:49, Tony K Real Estate
++917986382380, 2026-10-01 07:08:43, Chhabra Dental Clinic
++919876183394, 2026-10-01 07:09:32, Simran Dental Clinic
++919041403838, 2026-10-01 07:10:24, Ravinder Dental Clinic
++916283704915, 2026-10-01 07:11:21, Amar Dental Clinic
++917710565103, 2026-10-01 07:12:10, Guru Ji Properties
++919914786659, 2026-10-01 07:13:08, Raj Property Advisor
++919803302001, 2026-10-01 07:13:59, Disha Property Advisor And Builder
++918528625000, 2026-10-01 07:14:52, Bhatia Properties and Real Estate
++919056165209, 2026-10-01 07:15:44, The Sparrow Barrel (restaurant)
++917098070007, 2026-10-01 07:16:42, SUB&SALADS (restaurant)
++919876800019, 2026-10-01 07:17:40, Basant Platinum Fine Dine
++916280002911, 2026-10-01 07:18:29, Chennai Maratha Model Town (restaurant)
++622129339389, 2026-10-01 07:25:47, Boutique Office Indonesia | Sewa kantor virtual
++97688017118, 2026-10-01 07:26:41, ODCON Trade
++97688665777, 2026-10-01 07:27:38, Global Direction LLC
++971508227476, 2026-10-01 07:28:32, Z-Commerce LLC - FZ
++971600555005, 2026-10-01 07:29:28, Meezzaa Technology LLC
++971505578468, 2026-10-01 07:30:21, E-commerce License in Dubai
++447360243492, 2026-10-01 07:31:16, UK Technology Hub
++912123325290, 2026-10-01 07:32:06, Caissa
++442081640829, 2026-10-01 07:32:55, Thoughtworks
++918622074118, 2026-10-01 07:33:53, Financing Solutions
++912124617109, 2026-10-01 07:34:43, Shipping Land Singapore Pte
++16475980980, 2026-10-01 07:35:34, brand pilot ecommerce
++914989809070, 2026-10-01 07:36:27, Baxter Medizin Systeme GmbH+Co. KG
++33142823456, 2026-10-01 07:37:21, Galeries Lafayette Haussmann
++914989921030, 2026-10-01 07:38:18, NXP Semiconductors Germany GmbH
++97144107429, 2026-10-01 07:39:12, Emireum Properties
++33157966179, 2026-10-01 07:40:03, Urban Outfitters
++61413997229, 2026-10-01 07:41:00, Sydney Ecommerce
++61286642112, 2026-10-01 07:41:50, eCommerce Solution Hub
++5511961412794, 2026-10-01 07:42:42, Vexion - Consultoria Ecommerce/Marketplaces
++528183896740, 2026-10-01 07:43:34, TMP Manufacturing
++48535164561, 2026-10-01 07:44:29, Cloudmine
++5491134121888, 2026-10-01 07:45:17, Agencia Ecommerce (Vex Soluciones)
++6281999091825, 2026-10-01 07:46:06, FASHIONISTAS Store
++6281232544442, 2026-10-01 07:47:01, FASHIONABLE & TRENDY Surabaya
++6281259407416, 2026-10-01 07:47:58, Queenstreetstore

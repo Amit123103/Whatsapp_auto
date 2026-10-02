@@ -1,0 +1,4 @@
+# Skytecher WhatsApp Outreach - Blocklist
+# Add phone numbers to block (one number per line).
+# Format can be 10 digits (e.g., 9876543210) or with country code (e.g., +919876543210).
+# Numbers who reply 'STOP' can also be added here or via the UI.
